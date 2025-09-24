@@ -15,6 +15,6 @@ I'm a Front-End Developer specializing in React and TypeScript. Passionate about
 - Advanced TypeScript patterns
 
 ## 📫 Contact Me
-- LinkedIn: [linkedin.com/in/armen](https://linkedin.com/in/armen](https://www.linkedin.com/in/armen-bichakhchyan-80a220367/)
+- LinkedIn: https://www.linkedin.com/in/armen-bichakhchyan-80a220367/
 - Email: armenbichakhchyan01@gmail.com
--->
+
