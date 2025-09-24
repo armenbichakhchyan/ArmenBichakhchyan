@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hello! I'm Armen 👋
+# Hi! I'm Armen 👋
 I'm a Front-End Developer specializing in React and TypeScript. Passionate about building scalable web applications and learning new technologies.
 
 
